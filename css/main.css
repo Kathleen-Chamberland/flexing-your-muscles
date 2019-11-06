@@ -30,20 +30,20 @@ img {
   color: #005e76;
 }
 
-.footer h2{
- margin-top: 0;
- margin-bottom: 1.5rem;
+.footer h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
 }
 
 .footer ul {
   margin-top: 0;
   margin-bottom: 1.5rem;
   padding-left: 0;
-  list-style: none;
+  list-style-type: none;
 }
 
 .footer a {
-  color: #003445;
+  color: #003442;
 }
 
 .links {
@@ -51,9 +51,9 @@ img {
 }
 
 .social {
- margin-left: auto;
- padding: 0 1rem;
- display: flex;
+  margin-left: auto;
+  padding: 0 1rem;
+  display: flex;
 }
 
 .social > li {
@@ -63,5 +63,5 @@ img {
 
 .copyright {
   padding: 0 1rem;
- width: 100%;
+  width: 100%;
 }
